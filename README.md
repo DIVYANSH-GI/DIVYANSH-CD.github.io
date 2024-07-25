@@ -18,3 +18,9 @@
 | ENGLISH    | 91        | 100         |
 | PUNJABI    | 99        | 100         |
 | **TOTAL**  | **473**   | **500**     |
+
+   **HOBBY**
+My hobby is to play cricket . To play volleyball. To read books . Travelling.Learning and exploring new things.
+
+   **ACTIVITY REPORT**
+My activity report of 2024 year of Induction Program  in GURU NANAK DEV ENGINEERING COLLEGE.
