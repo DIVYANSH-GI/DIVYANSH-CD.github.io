@@ -1,4 +1,4 @@
-# DIVYANSH-CD.github.io
+# DIVYANSHK_CD.github.io
 # PORTFOLIO REPORT.
 
 :-  **PERSONAL IMFORMATION** :-
