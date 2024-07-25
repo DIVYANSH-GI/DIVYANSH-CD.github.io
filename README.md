@@ -27,6 +27,8 @@ My activity report of 2024 year of Induction Program  in GURU NANAK DEV ENGINEER
 
 :- Please click on the following link for my activity repot.
 
+[ACTIVITY REPORT](https://divyansh-gi.github.io/)
+
 
 
 :- I Have also completed my excle corse from GREAT LEARNING .
