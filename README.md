@@ -23,7 +23,8 @@
 My hobby is to play cricket . To play volleyball. To read books . Travelling.Learning and exploring new things.
 
   :- **ACTIVITY REPORT** :-
-My activity report of 2024 year of Induction Program  in GURU NANAK DEV ENGINEERING COLLEGE. ![images](https://github.com/user-attachments/assets/1ed32035-29cd-4f07-b518-82aeebd97917)
+My activity report of 2024 year of Induction Program  in GURU NANAK DEV ENGINEERING COLLEGE. 
+![images](https://github.com/user-attachments/assets/1ed32035-29cd-4f07-b518-82aeebd97917)
 
 :- Please click on the following link for my activity repot.
 
